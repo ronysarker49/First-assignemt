@@ -1,0 +1,28 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    font-size: 50px;
+}
+.purple-color{
+    color: tomato;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 201, 84), rgb(248, 172, 86));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 8px;
+    font-weight: 700;
+}
