@@ -9,7 +9,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -92,6 +92,28 @@ h1{
     font-weight: 700;
 }
 .developer{
+    padding-left: 5%;
+    font-weight: 700;
+    
+}
+
+.global-community{
     padding-right: 10%;
     font-weight: 700;
+}
+.background{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    
+    padding-left: 2px;
+}
+
+.background-two{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20%;
+    padding-right: 2px;
+    padding-bottom: 400px;
 }
