@@ -82,3 +82,16 @@ h1{
     width: 50%;
     height: 50%;
 }
+
+.documentation-one{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 201, 84), rgb(248, 172, 86));
+    color: white;
+    padding: 12px 40px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+.developer{
+    padding-right: 10%;
+    font-weight: 700;
+}
